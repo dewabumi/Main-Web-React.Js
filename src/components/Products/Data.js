@@ -1,0 +1,51 @@
+const Data = [
+  {
+    id: 1,
+    car: "Program SD",
+    image: "programsd.png",
+    image2: "sd2.png",
+    description: "Selain SMA Favorit, tentu sobatGO yang masih duduk di bangku SD semuanya ingin dong masuk ke SMP favorit? Tenang, Ganesha Operation juga bisa membantu kamu untuk masuk ke SMP favorit di kotamu. Yuk gabung bersama Ganesha Operation! SMP favorit sudah menunggumu!",
+    kelas: ["3 SD", "4 SD", "5 SD", "6 SD"],
+  },
+  {
+    id: 2,
+    car: "Program SMP",
+    image: "programsmp.png",
+    image2: "smp2.png",
+    description: "Tentu sobatGO yang sedang berada di bangku SMP semuanya ingin dong masuk ke SMA favorit, guru-guru yang berkualitas, fasilitas terbaik, dan juga kakak kelas yang berprestasi dan bisa membantu sobatGO untuk meningkatkan prestasi individu. Bersama Ganesha Operation, zonasi bukan lagi hambatan buat kamu yang mau masuk ke SMA favorit. Kami siap membantu kamu untuk belajar dan meraih prestasi supaya kamu bisa masuk ke SMA favorit di kotamu. Yuk gabung bersama Ganesha Operation! SMA favorit sudah menunggumu!",
+    kelas: ["7 SMP", "8 SMP", "9 SMP"],
+  },
+  {
+    id: 3,
+    car: "Program SMA",
+    image: "programsma.png",
+    image2: "sma2.png",
+    description: "Kamu merasa butuh bantuan tambahan untuk belajar? Pelajaran di sekolah terasa sulit? Yuk gabung di Ganesha Operation. Selain jadi lebih mengerti setiap pelajaran dan memudahkan kamu dalam mengerjakan soal, kamu juga bisa mendapat bantuan untuk mengerjakan tugas. Masih kurang? Belajar bersama Ganesha Operation juga bisa membuat kamu menjadi juara kelas dan sekolah lho! Tunggu apa lagi, yuk gabung sekarang!",
+    kelas: ["10 SMA MIA/IIS", "11 SMA IPA/IPS", "12 SMA IPA/IPS"],
+  },
+  {
+    id: 4,
+    car: "Program Gap Year",
+    image: "gapyear.png",
+    image2: "gapyear2.png",
+    description: "Program gap year adalah program yang dikhususkan untuk kamu yang sedang mengambil gap year dan sedang dalam persiapan untuk masuk ke PTN impianmu. Di Ganesha Operation, kamu akan belajar dengan fasilitas yang lengkap dan juga dibimbing oleh pengajar-pengajar terbaik yang akan membantu kamu untuk lulus di PTN impian. GO akan membantu kamu memilih program studi berdasarkan nilai prediksi lulus untuk suatu program studi menggunakan software simulasi GO. Jadi, tunggu apalagi? Yuk, daftar sekarang dan gapai PTN impianmu!",
+    kelas: ["ALUMNI IPA/IPS"],
+  },
+  {
+    id: 5,
+    car: "Bimbel Online Ganesha Operation",
+    image: "bimbelonline.png",
+    image2: "bimbelonline2.png",
+    description: "Karena situasi pandemi ini mengharuskan kita menjalani Pembelajaran Jarak Jauh (PJJ) atau belajar daring, Ganesha Operation menyiapkan GO Kreasi yang bisa menjadi aplikasi pendamping belajar kamu di rumah. Konsep dari aplikasi GO Kreasi sebagai learning center adalah 3B, yaitu Belajar, Berlatih, dan Bertanding. Kamu bisa belajar melalui buku teori dan video pembelajaran, lalu berlatih dengan kuis dan EMPATI yang ada di buku sakti, dan bertanding pada TOBK serta battle soal bareng teman-teman dengan fitur racing.",
+    kelas: ["3 SD", "4 SD", "5 SD", "6 SD", "7 SMP", "8 SMP", "9 SMP", "10 SMA MIA/IIS", "11 SMA IPA/IPS", "12 SMA IPA/IPS", "ALUMNI IPA/IPS"],
+  },
+  {
+    id: 6,
+    car: "Program SMK",
+    image: "programsmk.png",
+    image2: "smk2.png",
+    description: "Kamu ingin masuk PTN impian? Pelajaran di sekolah terasa sulit? Sekalian dibantu untuk persiapan kerja juga lho. Yuk, gabung di Ganesha Operation! Materi pelajaran di Ganesha Operation sudah dibuat untuk bisa membantu kamu masuk di perguruan tinggi favoritmu. Tunggu apa lagi, yuk gabung sekarang!",
+    kelas: ["10 SMK", "11 SMK", "12 SMK"],
+  },
+];
+export default Data;

@@ -1,0 +1,45 @@
+.countdown-timer {
+    width: 650px;
+
+    font-family: "Oswald";
+    font-size: 15px;
+
+    display: flex;
+    justify-content: left;
+    align-items: left;
+
+    margin-right: auto;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.countdown-timer span {
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 2px;
+}
+
+.two-numbers {
+    width: 2.5ch;
+    background-color: #EC323F;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: .5em;
+}
+
+  
+  @media only screen and (max-width: 700px) {
+    .countdown-timer {
+        width: 250px;
+        flex-flow: column;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
+    .countdown-timer {
+        width: 250px;
+        flex-flow: column;
+        font-size:10px;
+    }
+  }
