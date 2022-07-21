@@ -102,7 +102,7 @@ export const NavLinks = styled(Link)`
 	height: 100%;
 
 	&:hover {
-		border-bottom: 2px solid #ec421d;
+		border-bottom: 2px solid #fff;
 	}
 
 	@media screen and (max-width: 960px) {
@@ -140,7 +140,7 @@ export const Navigate = styled(Link)`
 	height: 100%;
 
 	&:hover {
-		border-bottom: 2px solid #ec421d;
+		border-bottom: 2px solid #fff;
 	}
 
 	@media screen and (max-width: 960px) {

@@ -31,13 +31,13 @@ function Diskon() {
             />
             <Diskonitem
               src='images/Diskon/diskon5.png'
-              text='Diskon ini berlaku hanya di bulan Juni 2022.'
+              text='Diskon ini berlaku sepanjang Tahun Pelajaran.'
               label='Diskon'
               path='/diskonlengkap'
             />
             <Diskonitem
               src='images/Diskon/diskon4.png'
-              text='Diskon ini berlaku hanya di bulan Juni 2022.'
+              text='Diskon ini berlaku s.d 31 Agustus 2022.'
               label='Diskon'
               path='/diskonlengkap'
             />
