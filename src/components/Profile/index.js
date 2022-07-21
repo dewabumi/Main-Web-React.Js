@@ -43,7 +43,7 @@ const Profile = () => {
                 </ProfileDetails>
                 <Subtitle>
                     Bimbel Ganesha Operation merupakan lembaga bimbingan belajar terbaik dan terbesar di Indonesia. 
-                    Berdiri sejak 2 Mei 1984 di Kota Bandung, saat ini Ganesha Operation telah tersebar di 249 kota di Indonesia, mulai dari Aceh hingga Ambon.
+                    Berdiri sejak 2 Mei 1984 di Kota Bandung, saat ini Ganesha Operation telah tersebar di 245 kota di Indonesia, mulai dari Aceh hingga Ambon.
                 </Subtitle>
                 <SocialMedia>
                     <SocialMediaWrap>
